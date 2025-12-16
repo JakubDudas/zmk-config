@@ -1,0 +1,6 @@
+if SHIELD_JD16PAD
+
+config ZMK_KEYBOARD_NAME
+    default "Prototype JDU"
+
+endif # SHIELD_JD16PAD
